@@ -1,3 +1,3 @@
 # Data-Visualation
 
-This repo contains differnt examples of constructing data visualization within python
+This repo contains different examples of constructing data visualization within python
